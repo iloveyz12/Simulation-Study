@@ -2,7 +2,6 @@
 title: "Study of data integrity"
 author: "Zheng(Zeb) Yang"
 thanks: "Code and data are available at: https://github.com/iloveyz12/Simulation-Study, Acknowledge to the review of Bernice Bao"
-
 date: "February 25, 2024"
 date-format: long
 format: 
